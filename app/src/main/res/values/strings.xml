@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">کاروان</string>
+    <string name="app_full_title">کاروان: جادهٔ هزار شهر</string>
+    <string name="app_subtitle">«کاروان تو از پرسپولیس تا چانگ‌آن راه درازی دارد؛ و کویر، تنها نیست.»</string>
+    <string name="nav_silk_road">جادهٔ ابریشم</string>
+    <string name="nav_battle">میدان نبرد</string>
+    <string name="nav_caravan_camp">اردوگاه و ارتقا</string>
+    <string name="nav_level_editor">کارگاه مرحله‌ساز</string>
+    <string name="nav_endless_raid">طوفان شن و باس</string>
+    <string name="phase_night_title">فاز شب: اردوگاه واحه (چیدمان و ارتقا)</string>
+    <string name="phase_day_title">فاز روز: حرکت کاروان و نبرد در دره</string>
+    <string name="start_day_march">آغاز حرکت کاروان (شروع موج)</string>
+    <string name="relocate_tower_hint">امضای گیم‌پلی: جابه‌جایی برج وسط نبرد! یک برج را انتخاب یا بکشید و روی پایگاه دیگر رها کنید.</string>
+    <string name="editor_title">ویرایشگر بصری مرحله (بدون کدنویسی)</string>
+    <string name="editor_subtitle">مسیرها، پایگاه‌های برج و دشمنان را با کشیدن و رها کردن (Drag &amp; Drop) بچینید</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "کاروان",
+  "description": "کاروان: جاده هزار شهر - بازی تاور دیفنس هیبریدی و استراتژی جاده ابریشم با برج‌های قابل‌حمل و مرحله‌ساز بصری (Level Editor)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
